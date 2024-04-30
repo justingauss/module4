@@ -1,5 +1,5 @@
 
-(function (window) {
+(function () {
 
 var helloSpeaker = {};
 
